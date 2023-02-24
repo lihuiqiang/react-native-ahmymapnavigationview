@@ -1,0 +1,29 @@
+{
+  "name": "react-native-ahmymapnavigationview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihuiqiang/react-native-ahmymapnavigationview.git"
+  },
+  "keywords": [
+    "map"
+  ],
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "6420.0.1"
+  },
+  "devDependencies": {
+    "autohome-lib": "^2.1.0-beta.1"
+  },
+  "author": "lihuiqiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lihuiqiang/react-native-ahmymapnavigationview/issues"
+  },
+  "homepage": "https://github.com/lihuiqiang/react-native-ahmymapnavigationview#readme"
+}
